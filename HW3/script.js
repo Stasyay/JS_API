@@ -1,5 +1,5 @@
 const localStorageKey = 'photos';
-const APIkey = 's8nc2mNsix0sXnkP_F4qfJjYgxtOEDKASXqxayjd9Xw'
+const APIkey = ''
 const url = `https://api.unsplash.com/photos/random?client_id=${APIkey}`;
 
 const photoContainerEl = document.querySelector('#photo-container');
